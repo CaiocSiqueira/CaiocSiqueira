@@ -1,6 +1,8 @@
 ### Olá! Sou Caio Siqueira 🤙
 
-![Caio's stats](https://github-readme-stats.vercel.app/api?username=CaiocSiqueira&show_icons=true&theme=transparent)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/CaiocSiqueira)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 <!---
 CaiocSiqueira/CaiocSiqueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
