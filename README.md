@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on open source projects using python or node
 
+<br><br>
+
 <div>
 <a href="https://github.com/CaiocSiqueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiocSiqueira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
