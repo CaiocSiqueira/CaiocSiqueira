@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Quality Assurance
 
-- 🌱 I’m currently learning test automation, machine learning and backend development 
+- 🌱 I’m currently learning test automation, devops, machine learning and backend development 
 
 - 👯 I’m looking to collaborate on open source projects using python or node
 
