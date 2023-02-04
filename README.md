@@ -8,11 +8,8 @@
 
 <br><br>
 
-<div>
-<a href="https://github.com/CaiocSiqueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaiocSiqueira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiocSiqueira&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocsiqueira&show_icons=true&theme=synthwave)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsiqueira&layout=compact&langs_count=8&theme=synthwave)
 
 
 <div style="display: inline_block"><br>
