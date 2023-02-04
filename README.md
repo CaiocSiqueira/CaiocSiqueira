@@ -1,5 +1,12 @@
-### Olá! Sou Caio Siqueira 🤙
+<h1 align="center">Olá! Sou Caio Siqueira 🤙</h1>
 
+- 🔭 I’m currently working with Quality Assurance
+
+- 🌱 I’m currently learning test automation, machine learning and backend development 
+
+- 👯 I’m looking to collaborate on open source projects using python or node
+
+<br>
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocsiqueira&show_icons=true&theme=synthwave)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsiqueira&layout=compact&langs_count=8&theme=synthwave)
 
@@ -10,9 +17,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <br/>
-  
- 
+ </div><br><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiocesarsiqueira)
 
