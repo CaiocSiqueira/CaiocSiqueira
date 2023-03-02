@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning test automation, devops, machine learning and backend development 
 
-- 👯 I’m looking to collaborate on open source projects using python or node
+- 👯 I’m looking to collaborate on open source projects
 
 <br><br>
 
@@ -18,6 +18,7 @@
 <div style="display: inline_block"><br>
   <h3 align="left">Tools:</h3>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
