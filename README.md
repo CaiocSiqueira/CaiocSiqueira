@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
   
   # 🤙 About Me:
-I work with quality assurance<br>I'm learning everything related to QaOps and machine learning<br>I study computer engineering @ Poli-UPE
+I work with quality assurance<br>I enjoy QaOps, low level programming and machine learning<br>I study computer engineering @ Poli-UPE
 
 
 ## 🌐 Socials:
