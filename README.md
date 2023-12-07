@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
   
   # 🤙 About Me:
-I work with quality assurance<br>I enjoy QA, DevOps, low level programming and networks<br>I study computer engineering @ Poli-UPE
+Cybersecurity enthusiast<br>I enjoy low level programming, operating systems and networks<br>I study computer engineering @ Poli-UPE
 
 
 ## 🌐 Socials:
