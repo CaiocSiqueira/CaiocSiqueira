@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :call_me_hand: About Me:
 I'm a passionate cybersecurity enthusiast with a deep interest in understanding how things work at their deepest level. I enjoy exploring networking, hacking, operating systems, and low-level programming. This passion is reflected in my diverse project portfolio, where I have worked across various fields. Notably, I'm currently learning about operating systems by creating one in C and Assembly. Additionally, my personal projects include network tools, as well as both web and Android development.
 
 
